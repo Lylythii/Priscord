@@ -12,6 +12,12 @@
 	* @updateUrl https://raw.githubusercontent.com/Lylythii/Priscord/main/Priscord.theme.css
 */
 
+#app-mount .bg-1QIAus {
+	background: var(--background-image);
+	background-position: var(--background-image-position, center);
+	background-size: var(--background-image-size, cover);
+}
+
 :root,
 .theme-dark,
 .theme-light {
@@ -22,9 +28,9 @@
     --background-secondary-alt: #21242b;
     /* --background-tertiary: #15181c; */
     --background-tertiary: transparent;
+	/* Icons */
 	--priscord-home-icon: url(https://raw.githubusercontent.com/PrismLauncher/prismlauncher.org/40d89d06ae90c7cbef18b06f52fd9a4c30c61db8/src/img/logo.svg);
 	--background-image: url('https://raw.githubusercontent.com/PrismLauncher/prismlauncher.org/40d89d06ae90c7cbef18b06f52fd9a4c30c61db8/src/img/background/prism-background.svg');
-	background: var(--background-image) center/cover no-repeat;
 }
 
 .homeIcon-r0w4ny path {
