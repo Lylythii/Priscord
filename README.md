@@ -1,3 +1,6 @@
+# [Priscord has moved to Lylythii/BetterDiscordAddons/Themes](https://github.com/Lylythii/BetterDiscordAddons)
+# It will now only be maintained over there.
+
 # Priscord
 Want Discord to be themed based on the [PrismLauncher](https://github.com/PrismLauncher) Minecraft modpack launcher's [branding](https://prismlauncher.org/wiki/branding)?
 Well now you can!
